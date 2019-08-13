@@ -19,3 +19,7 @@ When you've completed this project, you'll have an application that can be train
 First up is importing the packages you'll need. It's good practice to keep all the imports at the beginning of your code. As you work through this notebook and find you need to import a package, make sure to add the import up here.
 
 Please make sure if you are running this notebook in the workspace that you have chosen GPU rather than CPU mode.
+
+
+### Please Note:
+### I've executed this project work on my local machine with all the project rubrics to meet all required specifications of Udacity Nanodegree Program & uploaded here for reference.
